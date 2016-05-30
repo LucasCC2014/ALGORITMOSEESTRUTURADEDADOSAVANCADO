@@ -15,7 +15,7 @@ R:
 R:
 
 7 - A linguagem c é case sensitive
-R:
+R:Sim
 
 8 - Cite exemplos de palavras reservadas
 R:printf, int, main, float, char e system.
